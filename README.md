@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
-Swetha A
-212223220114
+Sri Harish B
+212223220110
 Btech IT
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
